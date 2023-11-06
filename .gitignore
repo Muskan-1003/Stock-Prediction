@@ -6,6 +6,5 @@ venv/
 config.ini
 
 # Ignore IDE-specific files
-.idea/
-.vscode/
+
 
