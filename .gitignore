@@ -1,0 +1,11 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore local configuration files
+config.ini
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
