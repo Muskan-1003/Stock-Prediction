@@ -17,5 +17,6 @@ pip install -r requirements.txt
 
 3.Run the Streamlit application:
 streamlit run main.py
+
 This will start the application and provide a local
 URL (usually http://localhost:8501/) where you can view and interact with the stock prediction app in your web browser.
